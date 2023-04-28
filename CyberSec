@@ -1,1 +1,21 @@
+一、作战概念
+ 1 MITRE ATT&CK® 				http://attack.mitre.org/
+ 9 网络空间安全领域可投的期刊和会议_学海无涯，重头再来的博客-CSDN博客  https://blog.csdn.net/yng324/article/details/125204830
 
+二、逆向理论
+2 [IDA Plugin] IDA插件收集_西瓜入归未有时的博客-CSDN博客   https://blog.csdn.net/sun2728/article/details/100171537
+3 IDA Python安装与使用 - 17bdw - 博客园 	https://www.cnblogs.com/17bdw/p/7785469.html
+4 IDA插件大全 - 『逆向资源区』  https://www.52pojie.cn/thread-1016307-1-1.html
+5 Windows平台的x64dbg插件合集   https://devpress.csdn.net/gitcode/640a90b5986c660f3cf921c9.html?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-2-121099036-blog-125341262.235^v29^pc_relevant_default_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~activity-2-121099036-blog-125341262.235^v29^pc_relevant_default_base3&utm_relevant_index=3
+
+三、密码理论
+
+四、安全配置
+    老网管日志 http://guanjianfeng.com/archives/1159646
+
+五、安全实践
+    1、[IDA Plugin] IDA插件收集  https://blog.csdn.net/sun2728/article/details/100171537
+    2、idahttps://www.cnblogs.com/17bdw/p/7785469.html
+    3、IDA插件大全 
+6 高级威胁：Ramsay恶意软件针对隔离网络的攻击技术分析_  https://blog.csdn.net/systemino/article/details/106539540?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167901814116800182142958%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167901814116800182142958&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-106539540-null-null.142^v74^insert_down1,201^v4^add_ask,239^v2^insert_chatgpt&utm_term=ramsay%20&spm=1018.2226.3001.4187
+7 Darkhotel组织渗透隔离网络的Ramsay组件分析  https://blog.csdn.net/systemino/article/details/106366682?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167901814116800182142958%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167901814116800182142958&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-106366682-null-null.142^v74^insert_down1,201^v4^add_ask,239^v2^insert_chatgpt&utm_term=ramsay%20&spm=1018.2226.3001.4187
